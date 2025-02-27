@@ -7,8 +7,13 @@ Template:       twentytwentyfive
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
 
+body {
+	color: #973a0c;
+	font-weight: 600;
+}
 h1 {
 	text-align: center;
+	font-weight: bold;
 }
 h2 {
 	text-align: center;
@@ -19,4 +24,7 @@ p {
 .wp-block-image img {
 	display: block;
 	margin: 20px auto;
+}
+.wp-block-latest-posts__list li {
+	text-align: center !important;
 }
