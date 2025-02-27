@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/trick-or-treating/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/haunted-houses/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/day-of-the-dead/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/ways-that-people-celebrate/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/krisbx/
+        </loc>
+    </url>
+</urlset>
