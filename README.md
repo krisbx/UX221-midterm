@@ -1,7 +1,7 @@
 # cd-wordpress
 continuous deployment wordpress
 
-TLDR;
+TLDR ;
 
 ```bash
 npm install
